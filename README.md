@@ -12,3 +12,4 @@ It determines the correct tax rate based on income brackets, then displays:
 2. Compile the file using:
    ```bash
    javac WithholdingTaxCalculator.java
+![Program Output](repo.png)

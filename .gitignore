@@ -1,0 +1,15 @@
+# Ignore temporary and system files
+.classpath
+.project
+.settings/
+*.log
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
+.DS_Store
+/bin/
+/out/
+# OneDrive and VSCode cache
+.vscode/
+*.sync/
